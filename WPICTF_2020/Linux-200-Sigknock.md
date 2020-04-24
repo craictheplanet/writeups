@@ -40,7 +40,7 @@ State advanced to 0
 ```
 
 
-Sending various signal interrupts allows you to advance through the states, however there didn't seem to be enough signals mapped to physical keys to get beyond state 3, we can see from the man 7 signal page that there are a number of other signal interrupts that probably aren't mapped to physical keys.
+Sending various signal interrupts allows you to advance through the states, however there didn't seem to be enough signals mapped to physical keys to get beyond state 3, we can see from the ```man 7 signal page``` that there are a number of other signal interrupts that probably aren't mapped to physical keys.
 
        First the signals described in the original POSIX.1-1990 standard.
     
