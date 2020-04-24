@@ -121,7 +121,7 @@ PID   USER     TIME  COMMAND
    12 wpictf    0:00 ps -ef
 ```
 
-No luck with '1' so on to the next value, and repeat this until you have what I guessed would be five value.
+No luck with '1' so on to the next value, and repeat this until you have what I guessed would be five values.
 
 ```
 ~ $ ps -ef
